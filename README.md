@@ -1,6 +1,5 @@
 # Hi, I'm Haochuan(Keiser)
-UofT alumni 2T2
-Harvard '28
+I am a **UofT Alumnus (2T6)** and an incoming student in the **Harvard Master of Health Data Science (HDS)** program
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=git,github,idea,java,mysql,r,py,postgres)](https://skillicons.dev)
