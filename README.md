@@ -1,9 +1,6 @@
-# Hi, I'm Haochuan(Keiser)! 
-
-I am a Statistics undergraduate student at the University of Toronto, with a minor in Economics. Feel free to connect with me!
-
-## Github Stats
-![KeiserJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeiserJ&show_icons=true&theme=dark)
+# Hi, I'm Haochuan(Keiser)
+UofT alumni 2T2
+Harvard '28
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=git,github,idea,java,mysql,r,py,postgres)](https://skillicons.dev)
